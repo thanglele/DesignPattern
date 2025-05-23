@@ -1,0 +1,15 @@
+D:\Develop\C#\DesignPattern\Prototype\bin\Debug\Prototype.exe.config
+D:\Develop\C#\DesignPattern\Prototype\bin\Debug\Prototype.exe
+D:\Develop\C#\DesignPattern\Prototype\bin\Debug\Prototype.pdb
+D:\Develop\C#\DesignPattern\Prototype\obj\Debug\Prototype.csproj.AssemblyReference.cache
+D:\Develop\C#\DesignPattern\Prototype\obj\Debug\Prototype.csproj.CoreCompileInputs.cache
+D:\Develop\C#\DesignPattern\Prototype\obj\Debug\Prototype.exe
+D:\Develop\C#\DesignPattern\Prototype\obj\Debug\Prototype.pdb
+D:\Develop\C#\DesignPattern\Prototype\obj\Debug\Prototype.exe.config
+D:\OneDrive - Thanglele\DATA-LEARNING\DesignPattern\Prototype\bin\Debug\Prototype.exe.config
+D:\OneDrive - Thanglele\DATA-LEARNING\DesignPattern\Prototype\bin\Debug\Prototype.exe
+D:\OneDrive - Thanglele\DATA-LEARNING\DesignPattern\Prototype\bin\Debug\Prototype.pdb
+D:\OneDrive - Thanglele\DATA-LEARNING\DesignPattern\Prototype\obj\Debug\Prototype.csproj.AssemblyReference.cache
+D:\OneDrive - Thanglele\DATA-LEARNING\DesignPattern\Prototype\obj\Debug\Prototype.csproj.CoreCompileInputs.cache
+D:\OneDrive - Thanglele\DATA-LEARNING\DesignPattern\Prototype\obj\Debug\Prototype.exe
+D:\OneDrive - Thanglele\DATA-LEARNING\DesignPattern\Prototype\obj\Debug\Prototype.pdb

@@ -1,0 +1,15 @@
+D:\Develop\C#\DesignPattern\builder\obj\Debug\builder.csproj.AssemblyReference.cache
+D:\Develop\C#\DesignPattern\builder\obj\Debug\builder.csproj.CoreCompileInputs.cache
+D:\Develop\C#\DesignPattern\builder\bin\Debug\builder.exe.config
+D:\Develop\C#\DesignPattern\builder\bin\Debug\builder.exe
+D:\Develop\C#\DesignPattern\builder\bin\Debug\builder.pdb
+D:\Develop\C#\DesignPattern\builder\obj\Debug\builder.exe
+D:\Develop\C#\DesignPattern\builder\obj\Debug\builder.pdb
+D:\Develop\C#\DesignPattern\builder\obj\Debug\builder.exe.config
+D:\OneDrive - Thanglele\DATA-LEARNING\DesignPattern\builder\bin\Debug\builder.exe.config
+D:\OneDrive - Thanglele\DATA-LEARNING\DesignPattern\builder\bin\Debug\builder.exe
+D:\OneDrive - Thanglele\DATA-LEARNING\DesignPattern\builder\bin\Debug\builder.pdb
+D:\OneDrive - Thanglele\DATA-LEARNING\DesignPattern\builder\obj\Debug\builder.csproj.AssemblyReference.cache
+D:\OneDrive - Thanglele\DATA-LEARNING\DesignPattern\builder\obj\Debug\builder.csproj.CoreCompileInputs.cache
+D:\OneDrive - Thanglele\DATA-LEARNING\DesignPattern\builder\obj\Debug\builder.exe
+D:\OneDrive - Thanglele\DATA-LEARNING\DesignPattern\builder\obj\Debug\builder.pdb

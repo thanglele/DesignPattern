@@ -1,0 +1,14 @@
+C:\Users\lesyt\OneDrive - Thanglele\DATA-LEARNING\DesignPattern\AdapterEx1\bin\Debug\net8.0\AdapterEx1.exe
+C:\Users\lesyt\OneDrive - Thanglele\DATA-LEARNING\DesignPattern\AdapterEx1\bin\Debug\net8.0\AdapterEx1.deps.json
+C:\Users\lesyt\OneDrive - Thanglele\DATA-LEARNING\DesignPattern\AdapterEx1\bin\Debug\net8.0\AdapterEx1.runtimeconfig.json
+C:\Users\lesyt\OneDrive - Thanglele\DATA-LEARNING\DesignPattern\AdapterEx1\bin\Debug\net8.0\AdapterEx1.dll
+C:\Users\lesyt\OneDrive - Thanglele\DATA-LEARNING\DesignPattern\AdapterEx1\bin\Debug\net8.0\AdapterEx1.pdb
+C:\Users\lesyt\OneDrive - Thanglele\DATA-LEARNING\DesignPattern\AdapterEx1\obj\Debug\net8.0\AdapterEx1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lesyt\OneDrive - Thanglele\DATA-LEARNING\DesignPattern\AdapterEx1\obj\Debug\net8.0\AdapterEx1.AssemblyInfoInputs.cache
+C:\Users\lesyt\OneDrive - Thanglele\DATA-LEARNING\DesignPattern\AdapterEx1\obj\Debug\net8.0\AdapterEx1.AssemblyInfo.cs
+C:\Users\lesyt\OneDrive - Thanglele\DATA-LEARNING\DesignPattern\AdapterEx1\obj\Debug\net8.0\AdapterEx1.csproj.CoreCompileInputs.cache
+C:\Users\lesyt\OneDrive - Thanglele\DATA-LEARNING\DesignPattern\AdapterEx1\obj\Debug\net8.0\AdapterEx1.dll
+C:\Users\lesyt\OneDrive - Thanglele\DATA-LEARNING\DesignPattern\AdapterEx1\obj\Debug\net8.0\refint\AdapterEx1.dll
+C:\Users\lesyt\OneDrive - Thanglele\DATA-LEARNING\DesignPattern\AdapterEx1\obj\Debug\net8.0\AdapterEx1.pdb
+C:\Users\lesyt\OneDrive - Thanglele\DATA-LEARNING\DesignPattern\AdapterEx1\obj\Debug\net8.0\AdapterEx1.genruntimeconfig.cache
+C:\Users\lesyt\OneDrive - Thanglele\DATA-LEARNING\DesignPattern\AdapterEx1\obj\Debug\net8.0\ref\AdapterEx1.dll

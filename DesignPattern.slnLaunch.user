@@ -1,0 +1,35 @@
+[
+  {
+    "Name": "V-ALL",
+    "Projects": [
+      {
+        "Path": "DesignPattern\\DesignPattern.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "FactoryMethod\\FactoryMethod.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "AbstractFactory\\AbstractFactory.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "Example01\\Example01.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "Example02\\Example02.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "builder\\builder.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "Prototype\\Prototype.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

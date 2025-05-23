@@ -1,0 +1,7 @@
+C:\Users\lesyt\OneDrive - Thanglele\DATA-LEARNING\DesignPattern\Example01\bin\Debug\Example01.exe.config
+C:\Users\lesyt\OneDrive - Thanglele\DATA-LEARNING\DesignPattern\Example01\bin\Debug\Example01.exe
+C:\Users\lesyt\OneDrive - Thanglele\DATA-LEARNING\DesignPattern\Example01\bin\Debug\Example01.pdb
+C:\Users\lesyt\OneDrive - Thanglele\DATA-LEARNING\DesignPattern\Example01\obj\Debug\Example01.csproj.AssemblyReference.cache
+C:\Users\lesyt\OneDrive - Thanglele\DATA-LEARNING\DesignPattern\Example01\obj\Debug\Example01.csproj.CoreCompileInputs.cache
+C:\Users\lesyt\OneDrive - Thanglele\DATA-LEARNING\DesignPattern\Example01\obj\Debug\Example01.exe
+C:\Users\lesyt\OneDrive - Thanglele\DATA-LEARNING\DesignPattern\Example01\obj\Debug\Example01.pdb

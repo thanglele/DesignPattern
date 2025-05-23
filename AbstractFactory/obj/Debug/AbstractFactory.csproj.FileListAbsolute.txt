@@ -1,0 +1,7 @@
+C:\Users\lesyt\OneDrive - Thanglele\DATA-LEARNING\DesignPattern\AbstractFactory\bin\Debug\AbstractFactory.exe.config
+C:\Users\lesyt\OneDrive - Thanglele\DATA-LEARNING\DesignPattern\AbstractFactory\bin\Debug\AbstractFactory.exe
+C:\Users\lesyt\OneDrive - Thanglele\DATA-LEARNING\DesignPattern\AbstractFactory\bin\Debug\AbstractFactory.pdb
+C:\Users\lesyt\OneDrive - Thanglele\DATA-LEARNING\DesignPattern\AbstractFactory\obj\Debug\AbstractFactory.csproj.AssemblyReference.cache
+C:\Users\lesyt\OneDrive - Thanglele\DATA-LEARNING\DesignPattern\AbstractFactory\obj\Debug\AbstractFactory.csproj.CoreCompileInputs.cache
+C:\Users\lesyt\OneDrive - Thanglele\DATA-LEARNING\DesignPattern\AbstractFactory\obj\Debug\AbstractFactory.exe
+C:\Users\lesyt\OneDrive - Thanglele\DATA-LEARNING\DesignPattern\AbstractFactory\obj\Debug\AbstractFactory.pdb
