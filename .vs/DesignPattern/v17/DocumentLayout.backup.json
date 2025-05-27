@@ -3,20 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\lesyt\\OneDrive - Thanglele\\DATA-LEARNING\\DesignPattern\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EAA33D5E-7B40-4C2A-ADCE-73F5D594E3DA}|Composite\\Composite.csproj|c:\\users\\lesyt\\onedrive - thanglele\\data-learning\\designpattern\\composite\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EAA33D5E-7B40-4C2A-ADCE-73F5D594E3DA}|Composite\\Composite.csproj|solutionrelative:composite\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A74FC6ED-2491-4BEA-A1B7-FFB62D4B72BA}|Decorator\\Decorator.csproj|c:\\users\\lesyt\\onedrive - thanglele\\data-learning\\designpattern\\decorator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A74FC6ED-2491-4BEA-A1B7-FFB62D4B72BA}|Decorator\\Decorator.csproj|solutionrelative:decorator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C23937E2-EA10-46EF-ACCB-B5FDDF2A447D}|Bridge\\Bridge.csproj|c:\\users\\lesyt\\onedrive - thanglele\\data-learning\\designpattern\\bridge\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C23937E2-EA10-46EF-ACCB-B5FDDF2A447D}|Bridge\\Bridge.csproj|solutionrelative:bridge\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A74FC6ED-2491-4BEA-A1B7-FFB62D4B72BA}|Decorator\\Decorator.csproj|c:\\users\\lesyt\\onedrive - thanglele\\data-learning\\designpattern\\decorator\\zalo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A74FC6ED-2491-4BEA-A1B7-FFB62D4B72BA}|Decorator\\Decorator.csproj|solutionrelative:decorator\\zalo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E6FA6EAC-57FC-43B3-8372-977D2DFD6400}|AdapterEx1\\AdapterEx1.csproj|c:\\users\\lesyt\\onedrive - thanglele\\data-learning\\designpattern\\adapterex1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E6FA6EAC-57FC-43B3-8372-977D2DFD6400}|AdapterEx1\\AdapterEx1.csproj|solutionrelative:adapterex1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A74FC6ED-2491-4BEA-A1B7-FFB62D4B72BA}|Decorator\\Decorator.csproj|c:\\users\\lesyt\\onedrive - thanglele\\data-learning\\designpattern\\decorator\\notifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A74FC6ED-2491-4BEA-A1B7-FFB62D4B72BA}|Decorator\\Decorator.csproj|solutionrelative:decorator\\notifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{834DBA0A-ABF8-43F5-8FD7-BA207125719E}|Adapter\\Adapter.csproj|c:\\users\\lesyt\\onedrive - thanglele\\data-learning\\designpattern\\adapter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{834DBA0A-ABF8-43F5-8FD7-BA207125719E}|Adapter\\Adapter.csproj|solutionrelative:adapter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A74FC6ED-2491-4BEA-A1B7-FFB62D4B72BA}|Decorator\\Decorator.csproj|c:\\users\\lesyt\\onedrive - thanglele\\data-learning\\designpattern\\decorator\\facebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A74FC6ED-2491-4BEA-A1B7-FFB62D4B72BA}|Decorator\\Decorator.csproj|solutionrelative:decorator\\facebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A74FC6ED-2491-4BEA-A1B7-FFB62D4B72BA}|Decorator\\Decorator.csproj|c:\\users\\lesyt\\onedrive - thanglele\\data-learning\\designpattern\\decorator\\sms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A74FC6ED-2491-4BEA-A1B7-FFB62D4B72BA}|Decorator\\Decorator.csproj|solutionrelative:decorator\\sms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A74FC6ED-2491-4BEA-A1B7-FFB62D4B72BA}|Decorator\\Decorator.csproj|c:\\users\\lesyt\\onedrive - thanglele\\data-learning\\designpattern\\decorator\\base_decorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A74FC6ED-2491-4BEA-A1B7-FFB62D4B72BA}|Decorator\\Decorator.csproj|solutionrelative:decorator\\base_decorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A74FC6ED-2491-4BEA-A1B7-FFB62D4B72BA}|Decorator\\Decorator.csproj|c:\\users\\lesyt\\onedrive - thanglele\\data-learning\\designpattern\\decorator\\telegram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A74FC6ED-2491-4BEA-A1B7-FFB62D4B72BA}|Decorator\\Decorator.csproj|solutionrelative:decorator\\telegram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,58 +38,97 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\lesyt\\OneDrive - Thanglele\\DATA-LEARNING\\DesignPattern\\Composite\\Program.cs",
-              "RelativeDocumentMoniker": "Composite\\Program.cs",
-              "ToolTip": "C:\\Users\\lesyt\\OneDrive - Thanglele\\DATA-LEARNING\\DesignPattern\\Composite\\Program.cs",
-              "RelativeToolTip": "Composite\\Program.cs",
-              "ViewState": "AgIAAGcAAAAAAAAAAAAiwIsAAAAoAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "telegram.cs",
+              "DocumentMoniker": "C:\\Users\\lesyt\\OneDrive - Thanglele\\DATA-LEARNING\\DesignPattern\\Decorator\\telegram.cs",
+              "RelativeDocumentMoniker": "Decorator\\telegram.cs",
+              "ToolTip": "C:\\Users\\lesyt\\OneDrive - Thanglele\\DATA-LEARNING\\DesignPattern\\Decorator\\telegram.cs",
+              "RelativeToolTip": "Decorator\\telegram.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAiwBEAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-23T10:31:21.662Z",
+              "WhenOpened": "2025-05-27T09:26:22.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Base_Decorator.cs",
+              "DocumentMoniker": "C:\\Users\\lesyt\\OneDrive - Thanglele\\DATA-LEARNING\\DesignPattern\\Decorator\\Base_Decorator.cs",
+              "RelativeDocumentMoniker": "Decorator\\Base_Decorator.cs",
+              "ToolTip": "C:\\Users\\lesyt\\OneDrive - Thanglele\\DATA-LEARNING\\DesignPattern\\Decorator\\Base_Decorator.cs",
+              "RelativeToolTip": "Decorator\\Base_Decorator.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAiwAsAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T09:11:23.865Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\lesyt\\OneDrive - Thanglele\\DATA-LEARNING\\DesignPattern\\Bridge\\Program.cs",
-              "RelativeDocumentMoniker": "Bridge\\Program.cs",
-              "ToolTip": "C:\\Users\\lesyt\\OneDrive - Thanglele\\DATA-LEARNING\\DesignPattern\\Bridge\\Program.cs",
-              "RelativeToolTip": "Bridge\\Program.cs",
-              "ViewState": "AgIAAGUAAAAAAAAAAAAIwJYAAAAhAAAAAAAAAA==",
+              "Title": "zalo.cs",
+              "DocumentMoniker": "C:\\Users\\lesyt\\OneDrive - Thanglele\\DATA-LEARNING\\DesignPattern\\Decorator\\zalo.cs",
+              "RelativeDocumentMoniker": "Decorator\\zalo.cs",
+              "ToolTip": "C:\\Users\\lesyt\\OneDrive - Thanglele\\DATA-LEARNING\\DesignPattern\\Decorator\\zalo.cs",
+              "RelativeToolTip": "Decorator\\zalo.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAUwBAAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-23T10:01:36.76Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\lesyt\\OneDrive - Thanglele\\DATA-LEARNING\\DesignPattern\\AdapterEx1\\Program.cs",
-              "RelativeDocumentMoniker": "AdapterEx1\\Program.cs",
-              "ToolTip": "C:\\Users\\lesyt\\OneDrive - Thanglele\\DATA-LEARNING\\DesignPattern\\AdapterEx1\\Program.cs",
-              "RelativeToolTip": "AdapterEx1\\Program.cs",
-              "ViewState": "AgIAAD8AAAAAAAAAAAAQwEkAAABCAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-23T09:29:05.852Z",
+              "WhenOpened": "2025-05-27T09:01:46.591Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\lesyt\\OneDrive - Thanglele\\DATA-LEARNING\\DesignPattern\\Adapter\\Program.cs",
-              "RelativeDocumentMoniker": "Adapter\\Program.cs",
-              "ToolTip": "C:\\Users\\lesyt\\OneDrive - Thanglele\\DATA-LEARNING\\DesignPattern\\Adapter\\Program.cs",
-              "RelativeToolTip": "Adapter\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAAAaAAAAAAAAAA==",
+              "Title": "facebook.cs",
+              "DocumentMoniker": "C:\\Users\\lesyt\\OneDrive - Thanglele\\DATA-LEARNING\\DesignPattern\\Decorator\\facebook.cs",
+              "RelativeDocumentMoniker": "Decorator\\facebook.cs",
+              "ToolTip": "C:\\Users\\lesyt\\OneDrive - Thanglele\\DATA-LEARNING\\DesignPattern\\Decorator\\facebook.cs",
+              "RelativeToolTip": "Decorator\\facebook.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAADwvwgAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-23T09:11:46.029Z",
+              "WhenOpened": "2025-05-27T09:01:15.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "sms.cs",
+              "DocumentMoniker": "C:\\Users\\lesyt\\OneDrive - Thanglele\\DATA-LEARNING\\DesignPattern\\Decorator\\sms.cs",
+              "RelativeDocumentMoniker": "Decorator\\sms.cs",
+              "ToolTip": "C:\\Users\\lesyt\\OneDrive - Thanglele\\DATA-LEARNING\\DesignPattern\\Decorator\\sms.cs",
+              "RelativeToolTip": "Decorator\\sms.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAiwAoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T08:59:33.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Notifier.cs",
+              "DocumentMoniker": "C:\\Users\\lesyt\\OneDrive - Thanglele\\DATA-LEARNING\\DesignPattern\\Decorator\\Notifier.cs",
+              "RelativeDocumentMoniker": "Decorator\\Notifier.cs",
+              "ToolTip": "C:\\Users\\lesyt\\OneDrive - Thanglele\\DATA-LEARNING\\DesignPattern\\Decorator\\Notifier.cs",
+              "RelativeToolTip": "Decorator\\Notifier.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T08:57:42.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lesyt\\OneDrive - Thanglele\\DATA-LEARNING\\DesignPattern\\Decorator\\Program.cs",
+              "RelativeDocumentMoniker": "Decorator\\Program.cs",
+              "ToolTip": "C:\\Users\\lesyt\\OneDrive - Thanglele\\DATA-LEARNING\\DesignPattern\\Decorator\\Program.cs*",
+              "RelativeToolTip": "Decorator\\Program.cs*",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwBkAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T08:55:29.737Z",
               "EditorCaption": ""
             }
           ]
