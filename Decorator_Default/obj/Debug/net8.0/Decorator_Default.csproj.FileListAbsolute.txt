@@ -1,0 +1,15 @@
+C:\Users\lesyt\OneDrive - Thanglele\DATA-LEARNING\DesignPattern\Decorator_Default\bin\Debug\net8.0\Decorator_Default.exe
+C:\Users\lesyt\OneDrive - Thanglele\DATA-LEARNING\DesignPattern\Decorator_Default\bin\Debug\net8.0\Decorator_Default.deps.json
+C:\Users\lesyt\OneDrive - Thanglele\DATA-LEARNING\DesignPattern\Decorator_Default\bin\Debug\net8.0\Decorator_Default.runtimeconfig.json
+C:\Users\lesyt\OneDrive - Thanglele\DATA-LEARNING\DesignPattern\Decorator_Default\bin\Debug\net8.0\Decorator_Default.dll
+C:\Users\lesyt\OneDrive - Thanglele\DATA-LEARNING\DesignPattern\Decorator_Default\bin\Debug\net8.0\Decorator_Default.pdb
+C:\Users\lesyt\OneDrive - Thanglele\DATA-LEARNING\DesignPattern\Decorator_Default\obj\Debug\net8.0\Decorator_Default.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lesyt\OneDrive - Thanglele\DATA-LEARNING\DesignPattern\Decorator_Default\obj\Debug\net8.0\Decorator_Default.AssemblyInfoInputs.cache
+C:\Users\lesyt\OneDrive - Thanglele\DATA-LEARNING\DesignPattern\Decorator_Default\obj\Debug\net8.0\Decorator_Default.AssemblyInfo.cs
+C:\Users\lesyt\OneDrive - Thanglele\DATA-LEARNING\DesignPattern\Decorator_Default\obj\Debug\net8.0\Decorator_Default.csproj.CoreCompileInputs.cache
+C:\Users\lesyt\OneDrive - Thanglele\DATA-LEARNING\DesignPattern\Decorator_Default\obj\Debug\net8.0\Decorator_Default.sourcelink.json
+C:\Users\lesyt\OneDrive - Thanglele\DATA-LEARNING\DesignPattern\Decorator_Default\obj\Debug\net8.0\Decorator_Default.dll
+C:\Users\lesyt\OneDrive - Thanglele\DATA-LEARNING\DesignPattern\Decorator_Default\obj\Debug\net8.0\refint\Decorator_Default.dll
+C:\Users\lesyt\OneDrive - Thanglele\DATA-LEARNING\DesignPattern\Decorator_Default\obj\Debug\net8.0\Decorator_Default.pdb
+C:\Users\lesyt\OneDrive - Thanglele\DATA-LEARNING\DesignPattern\Decorator_Default\obj\Debug\net8.0\Decorator_Default.genruntimeconfig.cache
+C:\Users\lesyt\OneDrive - Thanglele\DATA-LEARNING\DesignPattern\Decorator_Default\obj\Debug\net8.0\ref\Decorator_Default.dll
