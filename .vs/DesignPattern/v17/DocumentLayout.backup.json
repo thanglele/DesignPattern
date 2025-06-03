@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\lesyt\\OneDrive - Thanglele\\DATA-LEARNING\\DesignPattern\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4E06F858-600D-42AA-95AC-E35A69A8BC12}|Flyweight\\Flyweight.csproj|c:\\users\\lesyt\\onedrive - thanglele\\data-learning\\designpattern\\flyweight\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4E06F858-600D-42AA-95AC-E35A69A8BC12}|Flyweight\\Flyweight.csproj|solutionrelative:flyweight\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{14174DA4-F19D-4D1D-A7B2-67C27F4841C8}|Memento\\Memento.csproj|c:\\users\\lesyt\\onedrive - thanglele\\data-learning\\designpattern\\memento\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14174DA4-F19D-4D1D-A7B2-67C27F4841C8}|Memento\\Memento.csproj|solutionrelative:memento\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,13 +20,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\lesyt\\OneDrive - Thanglele\\DATA-LEARNING\\DesignPattern\\Flyweight\\Program.cs",
-              "RelativeDocumentMoniker": "Flyweight\\Program.cs",
-              "ToolTip": "C:\\Users\\lesyt\\OneDrive - Thanglele\\DATA-LEARNING\\DesignPattern\\Flyweight\\Program.cs",
-              "RelativeToolTip": "Flyweight\\Program.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAuwCUAAAAaAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\lesyt\\OneDrive - Thanglele\\DATA-LEARNING\\DesignPattern\\Memento\\Program.cs",
+              "RelativeDocumentMoniker": "Memento\\Program.cs",
+              "ToolTip": "C:\\Users\\lesyt\\OneDrive - Thanglele\\DATA-LEARNING\\DesignPattern\\Memento\\Program.cs*",
+              "RelativeToolTip": "Memento\\Program.cs*",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAAAFoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-27T10:35:50.455Z",
+              "WhenOpened": "2025-06-03T09:15:11.731Z",
               "EditorCaption": ""
             }
           ]

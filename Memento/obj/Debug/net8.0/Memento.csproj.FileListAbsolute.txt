@@ -1,0 +1,15 @@
+C:\Users\lesyt\OneDrive - Thanglele\DATA-LEARNING\DesignPattern\Memento\bin\Debug\net8.0\Memento.exe
+C:\Users\lesyt\OneDrive - Thanglele\DATA-LEARNING\DesignPattern\Memento\bin\Debug\net8.0\Memento.deps.json
+C:\Users\lesyt\OneDrive - Thanglele\DATA-LEARNING\DesignPattern\Memento\bin\Debug\net8.0\Memento.runtimeconfig.json
+C:\Users\lesyt\OneDrive - Thanglele\DATA-LEARNING\DesignPattern\Memento\bin\Debug\net8.0\Memento.dll
+C:\Users\lesyt\OneDrive - Thanglele\DATA-LEARNING\DesignPattern\Memento\bin\Debug\net8.0\Memento.pdb
+C:\Users\lesyt\OneDrive - Thanglele\DATA-LEARNING\DesignPattern\Memento\obj\Debug\net8.0\Memento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lesyt\OneDrive - Thanglele\DATA-LEARNING\DesignPattern\Memento\obj\Debug\net8.0\Memento.AssemblyInfoInputs.cache
+C:\Users\lesyt\OneDrive - Thanglele\DATA-LEARNING\DesignPattern\Memento\obj\Debug\net8.0\Memento.AssemblyInfo.cs
+C:\Users\lesyt\OneDrive - Thanglele\DATA-LEARNING\DesignPattern\Memento\obj\Debug\net8.0\Memento.csproj.CoreCompileInputs.cache
+C:\Users\lesyt\OneDrive - Thanglele\DATA-LEARNING\DesignPattern\Memento\obj\Debug\net8.0\Memento.sourcelink.json
+C:\Users\lesyt\OneDrive - Thanglele\DATA-LEARNING\DesignPattern\Memento\obj\Debug\net8.0\Memento.dll
+C:\Users\lesyt\OneDrive - Thanglele\DATA-LEARNING\DesignPattern\Memento\obj\Debug\net8.0\refint\Memento.dll
+C:\Users\lesyt\OneDrive - Thanglele\DATA-LEARNING\DesignPattern\Memento\obj\Debug\net8.0\Memento.pdb
+C:\Users\lesyt\OneDrive - Thanglele\DATA-LEARNING\DesignPattern\Memento\obj\Debug\net8.0\Memento.genruntimeconfig.cache
+C:\Users\lesyt\OneDrive - Thanglele\DATA-LEARNING\DesignPattern\Memento\obj\Debug\net8.0\ref\Memento.dll
