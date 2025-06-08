@@ -1,0 +1,15 @@
+C:\Users\lesyt\OneDrive - Thanglele\DATA-LEARNING\DesignPattern\observer\bin\Debug\net8.0\observer.exe
+C:\Users\lesyt\OneDrive - Thanglele\DATA-LEARNING\DesignPattern\observer\bin\Debug\net8.0\observer.deps.json
+C:\Users\lesyt\OneDrive - Thanglele\DATA-LEARNING\DesignPattern\observer\bin\Debug\net8.0\observer.runtimeconfig.json
+C:\Users\lesyt\OneDrive - Thanglele\DATA-LEARNING\DesignPattern\observer\bin\Debug\net8.0\observer.dll
+C:\Users\lesyt\OneDrive - Thanglele\DATA-LEARNING\DesignPattern\observer\bin\Debug\net8.0\observer.pdb
+C:\Users\lesyt\OneDrive - Thanglele\DATA-LEARNING\DesignPattern\observer\obj\Debug\net8.0\observer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lesyt\OneDrive - Thanglele\DATA-LEARNING\DesignPattern\observer\obj\Debug\net8.0\observer.AssemblyInfoInputs.cache
+C:\Users\lesyt\OneDrive - Thanglele\DATA-LEARNING\DesignPattern\observer\obj\Debug\net8.0\observer.AssemblyInfo.cs
+C:\Users\lesyt\OneDrive - Thanglele\DATA-LEARNING\DesignPattern\observer\obj\Debug\net8.0\observer.csproj.CoreCompileInputs.cache
+C:\Users\lesyt\OneDrive - Thanglele\DATA-LEARNING\DesignPattern\observer\obj\Debug\net8.0\observer.sourcelink.json
+C:\Users\lesyt\OneDrive - Thanglele\DATA-LEARNING\DesignPattern\observer\obj\Debug\net8.0\observer.dll
+C:\Users\lesyt\OneDrive - Thanglele\DATA-LEARNING\DesignPattern\observer\obj\Debug\net8.0\refint\observer.dll
+C:\Users\lesyt\OneDrive - Thanglele\DATA-LEARNING\DesignPattern\observer\obj\Debug\net8.0\observer.pdb
+C:\Users\lesyt\OneDrive - Thanglele\DATA-LEARNING\DesignPattern\observer\obj\Debug\net8.0\observer.genruntimeconfig.cache
+C:\Users\lesyt\OneDrive - Thanglele\DATA-LEARNING\DesignPattern\observer\obj\Debug\net8.0\ref\observer.dll

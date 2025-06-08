@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\lesyt\\OneDrive - Thanglele\\DATA-LEARNING\\DesignPattern\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{14174DA4-F19D-4D1D-A7B2-67C27F4841C8}|Memento\\Memento.csproj|c:\\users\\lesyt\\onedrive - thanglele\\data-learning\\designpattern\\memento\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{14174DA4-F19D-4D1D-A7B2-67C27F4841C8}|Memento\\Memento.csproj|solutionrelative:memento\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EE600CE9-CA22-4848-91A6-ED2432F13F57}|observer\\observer.csproj|c:\\users\\lesyt\\onedrive - thanglele\\data-learning\\designpattern\\observer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE600CE9-CA22-4848-91A6-ED2432F13F57}|observer\\observer.csproj|solutionrelative:observer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE600CE9-CA22-4848-91A6-ED2432F13F57}|observer\\observer.csproj|c:\\users\\lesyt\\onedrive - thanglele\\data-learning\\designpattern\\observer\\program - copy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE600CE9-CA22-4848-91A6-ED2432F13F57}|observer\\observer.csproj|solutionrelative:observer\\program - copy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +18,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program - Copy.cs",
+              "DocumentMoniker": "C:\\Users\\lesyt\\OneDrive - Thanglele\\DATA-LEARNING\\DesignPattern\\observer\\Program - Copy.cs",
+              "RelativeDocumentMoniker": "observer\\Program - Copy.cs",
+              "ToolTip": "C:\\Users\\lesyt\\OneDrive - Thanglele\\DATA-LEARNING\\DesignPattern\\observer\\Program - Copy.cs",
+              "RelativeToolTip": "observer\\Program - Copy.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAYwGEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T10:34:34.082Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\lesyt\\OneDrive - Thanglele\\DATA-LEARNING\\DesignPattern\\Memento\\Program.cs",
-              "RelativeDocumentMoniker": "Memento\\Program.cs",
-              "ToolTip": "C:\\Users\\lesyt\\OneDrive - Thanglele\\DATA-LEARNING\\DesignPattern\\Memento\\Program.cs*",
-              "RelativeToolTip": "Memento\\Program.cs*",
-              "ViewState": "AgIAAE4AAAAAAAAAAAAAAFoAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\lesyt\\OneDrive - Thanglele\\DATA-LEARNING\\DesignPattern\\observer\\Program.cs",
+              "RelativeDocumentMoniker": "observer\\Program.cs",
+              "ToolTip": "C:\\Users\\lesyt\\OneDrive - Thanglele\\DATA-LEARNING\\DesignPattern\\observer\\Program.cs*",
+              "RelativeToolTip": "observer\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-03T09:15:11.731Z",
+              "WhenOpened": "2025-06-03T10:09:24.266Z",
               "EditorCaption": ""
             }
           ]
